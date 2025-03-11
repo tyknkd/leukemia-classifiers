@@ -1,0 +1,7 @@
+services:
+  aml:
+    command: ['cp', 'data/Datasets.RData', 'temp/']
+    image: schultzelab/aml_classifier:0.1
+    container_name: aml
+    volumes:
+      - ./data:/temp
