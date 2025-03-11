@@ -1,4 +1,4 @@
-# Project Title: Multinomial Classification Machine Learning Algorithm Comparison on High-Dimension Leukemia Genomic Data
+# Multinomial Classification Machine Learning Algorithm Comparison on High-Dimension Leukemia Genomic Data
 
 Tyler Kinkade
 
